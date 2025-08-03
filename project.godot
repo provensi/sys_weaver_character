@@ -1,0 +1,10 @@
+; Engine configuration file.
+; It's best edited using the Godot editor.
+; If you make changes to this file, they will be overwritten when saving using the editor.
+
+[application]
+config/name="3DCharacterCreator"
+config/description="Gerador de personagens 3D estilizados com cel shading"
+
+[rendering]
+renderer/render_mode="ForwardPlus"
